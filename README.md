@@ -18,6 +18,10 @@ I'm a Python-certified developer with growing experience in backend systems, dat
 - Python-based automation tools
 - Open-source Django or Flask projects
 
+## 📁 Projects
+
+- [Youtube Bulk Uploader (CS50P Final Project)](https://github.com/60T-main/Youtube-Bulk-Video-Uploader)
+
 ## 🎓 Certification
 
 - [CS50's Introduction to Programming with Python – HarvardX](https://certificates.cs50.io/670bacf1-7f28-4afa-9c1d-eff601619f3a.pdf?size=letter)
