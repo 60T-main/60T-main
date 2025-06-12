@@ -18,9 +18,11 @@ I'm a Python-certified developer with growing experience in backend systems, dat
 - Python-based automation tools
 - Open-source Django or Flask projects
 
-## 📁 Projects
+## 📁 Academic Projects
 
 - [Youtube Bulk Uploader (CS50P Final Project)](https://github.com/60T-main/Youtube-Bulk-Video-Uploader)
+- [Wix Template Clone (HTML,CSS)(first project at IT Step Academy)](https://github.com/60T-main/IT-Step-Project-1)
+- [IT Step Project 2 – Interactive Shopping Basket (HTML/CSS/JS)](https://github.com/60T-main/IT-Step-Project-2)
 
 ## 🎓 Certification
 
