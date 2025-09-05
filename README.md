@@ -13,7 +13,7 @@ I'm a Python-certified developer with growing experience in backend systems, dat
 - SQL for data manipulation and analytics
 - A/B testing concepts and statistical evaluation
 
-## 💞️ I’m looking to collaborate on:
+## 🤝 I’m looking to collaborate on:
 - Backend APIs and infrastructure
 - Python-based automation tools
 - Open-source Django or Flask projects
